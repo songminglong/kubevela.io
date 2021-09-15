@@ -21,20 +21,6 @@
         <summary type="html"><![CDATA[KubeVela is demonstrated to be able to host thousands of applications effectively with limited resources.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KubeVela 官方文档翻译活动]]></title>
-        <id>KubeVela 官方文档翻译活动</id>
-        <link href="https://kubevela.io/zh/blog/2021/03/01/kubevela-official-documentation-translation-event"/>
-        <updated>2021-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[KubeVela 官方文档翻译活动]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 20 分钟内给你的 K8s PaaS 上线一个新功能]]></title>
-        <id>如何在 20 分钟内给你的 K8s PaaS 上线一个新功能</id>
-        <link href="https://kubevela.io/zh/blog/2020/12/14/extend-kubevela-by-cuelang-in-20-mins"/>
-        <updated>2020-12-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[如何在 20 分钟内给你的 K8s PaaS 上线一个新功能]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎]]></title>
         <id>KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎</id>
         <link href="https://kubevela.io/zh/blog/2020/12/07/kubevela-the-extensible-app-platform-based-on-open-application-model-and-kubernetes"/>
