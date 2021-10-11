@@ -4,9 +4,15 @@
         <title>KubeVela Blog</title>
         <link>https://kubevela.io/blog</link>
         <description>KubeVela Blog</description>
-        <lastBuildDate>Thu, 02 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Using GitOps + KubeVela for Application Continuous Delivery]]></title>
+            <link>https://kubevela.io/blog/2021/10/10/kubevela-gitops</link>
+            <guid>Using GitOps + KubeVela for Application Continuous Delivery</guid>
+            <pubDate>Sun, 10 Oct 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Using Jenkins + KubeVela for Application Continuous Delivery]]></title>
             <link>https://kubevela.io/blog/2021/09/02/kubevela-jenkins-cicd</link>
